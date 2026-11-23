@@ -1,2 +1,7 @@
 ini coding anda
 file ini adalah base object
+
+ini coding untuk menu utama
+....
+coding
+coding
